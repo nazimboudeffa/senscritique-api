@@ -1,15 +1,15 @@
-Star Trek Online API
+SensCritique API
 ====================
 
-An API for getting information on Star Trek Online
+An API for getting information on SensCritique.com
 
 ## Installing
 Install via [npm](https://npmjs.com)
 
-    $ npm install github:nazimboudeffa/sto-api
+    $ npm install github:nazimboudeffa/senscritique-api
 
 ## Running
 To run the example:
 
     $ npm install
-    $ node examples/status.js
+    $ node examples/movie.js
